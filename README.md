@@ -2,4 +2,4 @@
 
 TODO:
 - [x] Basic setup (Instance, Physical Device, Logic device, queues etc.)
-- [x] SPIR-V shader compilation pipeline
+- [] SPIR-V shader compilation pipeline
